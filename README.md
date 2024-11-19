@@ -1,1 +1,1 @@
-Code from Google Android Trainig Courses
+Code from Google's Android Training Courses
